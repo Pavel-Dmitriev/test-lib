@@ -6,8 +6,8 @@ function App() {
   return (
     <>
       <div className="card">
-        <h1>Тест кнопки из библиотеки компонентов</h1>
-        <Button label="Я кнопка из библиотеки" textColor="red" />
+        <h1>Внизу кнопка из библиотеки</h1>
+        <Button label="Я кнопка из библиотеки" size="large" />
       </div>
     </>
   );
