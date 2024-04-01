@@ -6,7 +6,7 @@ function App() {
   return (
     <section className="card">
       <h1>Внизу кнопка из библиотеки</h1>
-      <Button label="Я кнопка из библиотеки" size="large" />
+      <Button label="Я кнопка из библиотеки" size="M" />
     </section>
   );
 }
